@@ -64,7 +64,7 @@ export default function contact() {
                         </div>
                         <div className="mb-6">
                             <label htmlFor="frm-message" className="block from-gray-200 text-sm font-bold mb-2">Message</label>
-                            <textarea id="frm-message" rows="6" name="message" className="shadow appearance-none border rounded w-full py-2 px-3 from-gray-200 leading-tight focus:outline-none focus:shadow-outline text-black dark:invert"></textarea>
+                            <textarea id="frm-message" name="message" className="shadow appearance-none border rounded w-full py-2 px-3 from-gray-200 leading-tight focus:outline-none focus:shadow-outline text-black dark:invert"></textarea>
                         </div>
                         <div className="flex items-center justify-between">
                             <button type="submit" className="bg-blue-500 hover:bg-blue-700 text-black font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
